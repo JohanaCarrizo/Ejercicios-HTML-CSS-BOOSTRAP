@@ -1,0 +1,8 @@
+a{
+    color: #cc0000;
+}
+
+a:hover{
+    background-color: #cc0000;
+    color: white;
+}

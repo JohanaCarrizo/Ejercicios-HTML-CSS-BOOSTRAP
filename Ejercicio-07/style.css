@@ -1,0 +1,16 @@
+body {
+    background-color: #0e1015;
+}
+
+h1, h2 {
+    font-family: sans-serif, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    color: white;
+}
+
+p {
+    color: #01e6ce;
+    text-align: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
